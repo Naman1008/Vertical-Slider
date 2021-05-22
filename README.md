@@ -1,1 +1,1 @@
-# Vertical-Slider
+# Responsive CSS Vertical Slider With Thumbnails
